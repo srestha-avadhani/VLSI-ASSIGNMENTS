@@ -1,0 +1,169 @@
+magic
+tech scmos
+timestamp 1613673414
+<< metal1 >>
+rect -119 46 -116 50
+rect -48 46 -33 50
+rect 7 46 17 50
+rect 57 46 67 50
+rect 107 46 114 50
+rect 154 46 161 50
+rect 201 46 208 50
+rect 248 46 255 50
+rect 295 46 301 50
+rect 341 46 347 50
+rect -119 -273 -115 46
+rect -105 10 387 15
+rect -105 -41 -99 10
+rect -95 -85 369 -80
+rect -95 -144 -90 -85
+rect -95 -148 -89 -144
+rect -49 -148 -42 -144
+rect -2 -148 5 -144
+rect 45 -148 51 -144
+rect 91 -148 96 -144
+rect 136 -148 142 -144
+rect 182 -148 188 -144
+rect 228 -148 235 -144
+rect 275 -148 282 -144
+rect 322 -148 329 -144
+rect 365 -179 369 -148
+rect -93 -183 369 -179
+rect -93 -239 -89 -183
+rect -93 -243 -87 -239
+rect -51 -273 -47 -243
+rect -119 -277 -47 -273
+use inverter  inverter_31
+timestamp 1613411443
+transform 1 0 35 0 -1 171
+box -23 -42 17 33
+use inverter  inverter_32
+array 0 4 40 0 0 75
+timestamp 1613411443
+transform -1 0 271 0 -1 165
+box -23 -42 17 33
+use inverter  inverter_0
+timestamp 1613411443
+transform 1 0 -65 0 1 62
+box -23 -42 17 33
+use inverter  inverter_1
+timestamp 1613411443
+transform 1 0 -10 0 1 62
+box -23 -42 17 33
+use inverter  inverter_2
+timestamp 1613411443
+transform 1 0 40 0 1 62
+box -23 -42 17 33
+use inverter  inverter_3
+timestamp 1613411443
+transform 1 0 90 0 1 62
+box -23 -42 17 33
+use inverter  inverter_4
+timestamp 1613411443
+transform 1 0 137 0 1 62
+box -23 -42 17 33
+use inverter  inverter_5
+timestamp 1613411443
+transform 1 0 184 0 1 62
+box -23 -42 17 33
+use inverter  inverter_6
+timestamp 1613411443
+transform 1 0 231 0 1 62
+box -23 -42 17 33
+use inverter  inverter_7
+timestamp 1613411443
+transform 1 0 278 0 1 62
+box -23 -42 17 33
+use inverter  inverter_8
+timestamp 1613411443
+transform 1 0 324 0 1 62
+box -23 -42 17 33
+use inverter  inverter_9
+timestamp 1613411443
+transform 1 0 370 0 1 62
+box -23 -42 17 33
+use inverter  inverter_10
+timestamp 1613411443
+transform 1 0 -68 0 1 -32
+box -23 -42 17 33
+use inverter  inverter_11
+timestamp 1613411443
+transform 1 0 -20 0 1 -32
+box -23 -42 17 33
+use inverter  inverter_12
+timestamp 1613411443
+transform 1 0 26 0 1 -32
+box -23 -42 17 33
+use inverter  inverter_13
+timestamp 1613411443
+transform 1 0 72 0 1 -32
+box -23 -42 17 33
+use inverter  inverter_14
+timestamp 1613411443
+transform 1 0 118 0 1 -32
+box -23 -42 17 33
+use inverter  inverter_15
+timestamp 1613411443
+transform 1 0 165 0 1 -32
+box -23 -42 17 33
+use inverter  inverter_16
+timestamp 1613411443
+transform 1 0 213 0 1 -32
+box -23 -42 17 33
+use inverter  inverter_17
+timestamp 1613411443
+transform 1 0 259 0 1 -32
+box -23 -42 17 33
+use inverter  inverter_18
+timestamp 1613411443
+transform 1 0 307 0 1 -32
+box -23 -42 17 33
+use inverter  inverter_19
+timestamp 1613411443
+transform 1 0 352 0 1 -32
+box -23 -42 17 33
+use inverter  inverter_20
+timestamp 1613411443
+transform 1 0 -66 0 1 -132
+box -23 -42 17 33
+use inverter  inverter_21
+timestamp 1613411443
+transform 1 0 -19 0 1 -132
+box -23 -42 17 33
+use inverter  inverter_22
+timestamp 1613411443
+transform 1 0 28 0 1 -132
+box -23 -42 17 33
+use inverter  inverter_23
+timestamp 1613411443
+transform 1 0 74 0 1 -132
+box -23 -42 17 33
+use inverter  inverter_24
+timestamp 1613411443
+transform 1 0 119 0 1 -132
+box -23 -42 17 33
+use inverter  inverter_25
+timestamp 1613411443
+transform 1 0 165 0 1 -132
+box -23 -42 17 33
+use inverter  inverter_26
+timestamp 1613411443
+transform 1 0 211 0 1 -132
+box -23 -42 17 33
+use inverter  inverter_27
+timestamp 1613411443
+transform 1 0 258 0 1 -132
+box -23 -42 17 33
+use inverter  inverter_28
+timestamp 1613411443
+transform 1 0 305 0 1 -132
+box -23 -42 17 33
+use inverter  inverter_29
+timestamp 1613411443
+transform 1 0 352 0 1 -132
+box -23 -42 17 33
+use inverter  inverter_30
+timestamp 1613411443
+transform 1 0 -64 0 1 -227
+box -23 -42 17 33
+<< end >>

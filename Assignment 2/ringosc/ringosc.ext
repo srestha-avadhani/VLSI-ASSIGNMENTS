@@ -1,0 +1,200 @@
+timestamp 1613545409
+version 8.2
+tech scmos
+style TSMC0.18um(tsmc18)from:t11b
+scale 1000 1 9
+resistclasses 6700 7500 929000 929000 1 7700 7700 80 80 80 70 70 40
+use inverter inverter_0 1 0 -65 0 1 62
+use inverter inverter_1 1 0 -10 0 1 62
+use inverter inverter_2 1 0 40 0 1 62
+use inverter inverter_3 1 0 90 0 1 62
+use inverter inverter_4 1 0 137 0 1 62
+use inverter inverter_5 1 0 184 0 1 62
+use inverter inverter_6 1 0 231 0 1 62
+use inverter inverter_7 1 0 278 0 1 62
+use inverter inverter_8 1 0 324 0 1 62
+use inverter inverter_9 1 0 370 0 1 62
+use inverter inverter_10 1 0 -68 0 1 -32
+use inverter inverter_11 1 0 -20 0 1 -32
+use inverter inverter_12 1 0 26 0 1 -32
+use inverter inverter_13 1 0 72 0 1 -32
+use inverter inverter_14 1 0 118 0 1 -32
+use inverter inverter_15 1 0 165 0 1 -32
+use inverter inverter_16 1 0 213 0 1 -32
+use inverter inverter_17 1 0 259 0 1 -32
+use inverter inverter_18 1 0 307 0 1 -32
+use inverter inverter_19 1 0 352 0 1 -32
+use inverter inverter_20 1 0 -66 0 1 -132
+use inverter inverter_21 1 0 -19 0 1 -132
+use inverter inverter_22 1 0 28 0 1 -132
+use inverter inverter_23 1 0 74 0 1 -132
+use inverter inverter_24 1 0 119 0 1 -132
+use inverter inverter_25 1 0 165 0 1 -132
+use inverter inverter_26 1 0 211 0 1 -132
+use inverter inverter_27 1 0 258 0 1 -132
+use inverter inverter_28 1 0 305 0 1 -132
+use inverter inverter_29 1 0 352 0 1 -132
+use inverter inverter_30 1 0 -64 0 1 -227
+node "m1_n93_n243#" 11 1821.53 -93 -243 m1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2220 1118 0 0 0 0 0 0 0 0 0 0
+node "m1_322_n148#" 0 30.8892 322 -148 m1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 28 22 0 0 0 0 0 0 0 0 0 0
+node "m1_275_n148#" 0 30.8892 275 -148 m1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 28 22 0 0 0 0 0 0 0 0 0 0
+node "m1_228_n148#" 0 30.8892 228 -148 m1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 28 22 0 0 0 0 0 0 0 0 0 0
+node "m1_182_n148#" 0 27.6216 182 -148 m1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 24 20 0 0 0 0 0 0 0 0 0 0
+node "m1_136_n148#" 0 27.6216 136 -148 m1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 24 20 0 0 0 0 0 0 0 0 0 0
+node "m1_91_n148#" 0 24.354 91 -148 m1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 20 18 0 0 0 0 0 0 0 0 0 0
+node "m1_45_n148#" 0 27.6216 45 -148 m1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 24 20 0 0 0 0 0 0 0 0 0 0
+node "m1_n2_n148#" 0 30.8892 -2 -148 m1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 28 22 0 0 0 0 0 0 0 0 0 0
+node "m1_n49_n148#" 0 30.8892 -49 -148 m1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 28 22 0 0 0 0 0 0 0 0 0 0
+node "m1_n95_n148#" 9 2048.72 -95 -148 m1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2844 1148 0 0 0 0 0 0 0 0 0 0
+node "m1_324_n48#" 0 24.354 324 -48 m1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 20 18 0 0 0 0 0 0 0 0 0 0
+node "m1_276_n48#" 0 34.1568 276 -48 m1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 32 24 0 0 0 0 0 0 0 0 0 0
+node "m1_230_n48#" 0 27.6216 230 -48 m1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 24 20 0 0 0 0 0 0 0 0 0 0
+node "m1_182_n48#" 0 34.1568 182 -48 m1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 32 24 0 0 0 0 0 0 0 0 0 0
+node "m1_135_n48#" 0 30.8892 135 -48 m1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 28 22 0 0 0 0 0 0 0 0 0 0
+node "m1_89_n48#" 0 27.6216 89 -48 m1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 24 20 0 0 0 0 0 0 0 0 0 0
+node "m1_43_n48#" 0 27.6216 43 -48 m1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 24 20 0 0 0 0 0 0 0 0 0 0
+node "m1_n3_n48#" 0 27.6216 -3 -48 m1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 24 20 0 0 0 0 0 0 0 0 0 0
+node "m1_n51_n48#" 0 34.1568 -51 -48 m1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 32 24 0 0 0 0 0 0 0 0 0 0
+node "m1_n105_n48#" 9 2126.7 -105 -48 m1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2964 1188 0 0 0 0 0 0 0 0 0 0
+node "m1_341_46#" 0 27.6216 341 46 m1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 24 20 0 0 0 0 0 0 0 0 0 0
+node "m1_295_46#" 0 27.6216 295 46 m1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 24 20 0 0 0 0 0 0 0 0 0 0
+node "m1_248_46#" 0 30.8892 248 46 m1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 28 22 0 0 0 0 0 0 0 0 0 0
+node "m1_201_46#" 0 30.8892 201 46 m1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 28 22 0 0 0 0 0 0 0 0 0 0
+node "m1_154_46#" 0 30.8892 154 46 m1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 28 22 0 0 0 0 0 0 0 0 0 0
+node "m1_107_46#" 0 30.8892 107 46 m1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 28 22 0 0 0 0 0 0 0 0 0 0
+node "m1_57_46#" 0 40.692 57 46 m1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 40 28 0 0 0 0 0 0 0 0 0 0
+node "m1_7_46#" 0 40.692 7 46 m1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 40 28 0 0 0 0 0 0 0 0 0 0
+node "m1_n48_46#" 0 57.03 -48 46 m1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 60 38 0 0 0 0 0 0 0 0 0 0
+node "m1_n119_n277#" 9 1484.97 -119 -277 m1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1808 912 0 0 0 0 0 0 0 0 0 0
+subcap "m1_n93_n243#" -1208.8
+cap "inverter_30/gnd" "inverter_30/Out" 388.324
+cap "inverter_21/gnd" "inverter_30/in" 86.5998
+cap "inverter_20/gnd" "inverter_30/in" 127.838
+cap "inverter_30/vdd" "inverter_30/in" 41.238
+cap "inverter_23/gnd" "m1_n93_n243#" 115.466
+cap "inverter_22/gnd" "m1_n93_n243#" 127.838
+cap "inverter_21/gnd" "m1_n93_n243#" 41.238
+cap "inverter_25/gnd" "m1_n93_n243#" 127.838
+cap "m1_n93_n243#" "inverter_23/gnd" 12.3714
+cap "inverter_24/gnd" "m1_n93_n243#" 127.838
+cap "inverter_27/gnd" "m1_n93_n243#" 127.838
+cap "inverter_26/gnd" "m1_n93_n243#" 127.838
+cap "m1_n93_n243#" "inverter_29/gnd" 127.838
+cap "m1_n93_n243#" "inverter_28/gnd" 127.838
+subcap "m1_n95_n148#" -1377.99
+cap "inverter_11/gnd" "inverter_20/in" 75.603
+cap "inverter_10/gnd" "inverter_20/in" 106.531
+cap "m1_n93_n243#" "inverter_21/gnd" 86.5998
+cap "m1_n93_n243#" "inverter_20/gnd" 127.838
+cap "inverter_20/vdd" "inverter_20/in" 51.5475
+cap "m1_n95_n148#" "inverter_12/gnd" 106.531
+cap "m1_n93_n243#" "inverter_23/gnd" 115.466
+cap "m1_n95_n148#" "inverter_11/gnd" 30.9285
+cap "m1_n93_n243#" "inverter_22/gnd" 127.838
+cap "m1_n93_n243#" "inverter_21/gnd" 41.238
+cap "m1_n95_n148#" "inverter_13/gnd" 103.095
+cap "m1_n93_n243#" "inverter_23/gnd" 12.3714
+cap "m1_n95_n148#" "inverter_15/gnd" 106.531
+cap "m1_n93_n243#" "inverter_25/gnd" 127.838
+cap "m1_n93_n243#" "inverter_24/gnd" 127.838
+cap "m1_n95_n148#" "inverter_13/gnd" 3.4365
+cap "m1_n95_n148#" "inverter_14/gnd" 106.531
+cap "m1_n95_n148#" "inverter_16/gnd" 106.531
+cap "inverter_17/gnd" "m1_n95_n148#" 106.531
+cap "m1_n93_n243#" "inverter_27/gnd" 127.838
+cap "m1_n93_n243#" "inverter_26/gnd" 127.838
+cap "m1_n95_n148#" "inverter_18/gnd" 106.531
+cap "inverter_28/gnd" "inverter_29/Out" 127.838
+cap "m1_n95_n148#" "inverter_19/gnd" 106.531
+cap "inverter_29/Out" "inverter_29/gnd" 196.568
+cap "inverter_11/gnd" "m1_n95_n148#" 75.603
+cap "inverter_0/gnd" "inverter_10/in" 255.676
+cap "inverter_1/gnd" "inverter_10/in" 98.9712
+cap "inverter_10/gnd" "m1_n95_n148#" 106.531
+cap "m1_n105_n48#" "inverter_3/gnd" 98.9712
+cap "m1_n105_n48#" "inverter_2/gnd" 255.676
+cap "inverter_12/gnd" "m1_n95_n148#" 106.531
+cap "m1_n95_n148#" "inverter_13/gnd" 103.095
+cap "m1_n105_n48#" "inverter_1/gnd" 156.704
+cap "inverter_11/gnd" "m1_n95_n148#" 30.9285
+cap "inverter_13/gnd" "m1_n95_n148#" 3.4365
+cap "inverter_3/gnd" "m1_n105_n48#" 156.704
+cap "inverter_5/gnd" "m1_n105_n48#" 148.457
+cap "inverter_4/gnd" "m1_n105_n48#" 255.676
+cap "inverter_14/gnd" "m1_n95_n148#" 106.531
+cap "inverter_15/gnd" "m1_n95_n148#" 106.531
+cap "inverter_5/gnd" "m1_n105_n48#" 107.219
+cap "inverter_6/gnd" "m1_n105_n48#" 255.676
+cap "inverter_7/gnd" "m1_n105_n48#" 197.942
+cap "m1_n95_n148#" "inverter_16/gnd" 106.531
+cap "m1_n95_n148#" "inverter_17/gnd" 106.531
+cap "m1_n105_n48#" "inverter_7/gnd" 57.7332
+cap "inverter_19/Out" "inverter_18/gnd" 106.531
+cap "inverter_19/Out" "inverter_19/gnd" 135.987
+cap "inverter_9/gnd" "m1_n105_n48#" 276.295
+cap "inverter_8/gnd" "m1_n105_n48#" 255.676
+cap "m1_n105_n48#" "inverter_9/gnd" 20.619
+cap "inverter_9/Out" "inverter_9/gnd" 13.746
+cap "inverter_9/Out" "inverter_9/gnd" 13.746
+merge "inverter_8/in" "inverter_7/Out" -16.032 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -16 0 0 0 0 0 0 0 0 0 0
+merge "inverter_7/Out" "m1_295_46#"
+merge "inverter_22/in" "inverter_21/Out" -16.032 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -16 0 0 0 0 0 0 0 0 0 0
+merge "inverter_21/Out" "m1_n2_n148#"
+merge "inverter_29/Out" "inverter_30/in" -1046.52 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -788 -796 0 0 0 0 0 0 0 0 0 0
+merge "inverter_30/in" "m1_n93_n243#"
+merge "inverter_9/Out" "inverter_10/in" -537.74 0 0 0 0 0 0 0 0 0 0 0 0 0 0 978 -845 0 0 0 0 0 0 0 0 0 0
+merge "inverter_10/in" "m1_n105_n48#"
+merge "inverter_3/in" "inverter_2/Out" -16.032 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -16 0 0 0 0 0 0 0 0 0 0
+merge "inverter_2/Out" "m1_57_46#"
+merge "inverter_2/in" "inverter_1/Out" -16.032 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -16 0 0 0 0 0 0 0 0 0 0
+merge "inverter_1/Out" "m1_7_46#"
+merge "inverter_7/in" "inverter_6/Out" -16.032 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -16 0 0 0 0 0 0 0 0 0 0
+merge "inverter_6/Out" "m1_248_46#"
+merge "inverter_6/in" "inverter_5/Out" -16.032 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -16 0 0 0 0 0 0 0 0 0 0
+merge "inverter_5/Out" "m1_201_46#"
+merge "inverter_1/in" "inverter_0/Out" -16.032 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -16 0 0 0 0 0 0 0 0 0 0
+merge "inverter_0/Out" "m1_n48_46#"
+merge "inverter_18/in" "inverter_17/Out" -5.9232 0 0 0 0 0 0 0 0 0 0 0 0 0 0 32 -16 0 0 0 0 0 0 0 0 0 0
+merge "inverter_17/Out" "m1_276_n48#"
+merge "inverter_17/in" "inverter_16/Out" -16.032 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -16 0 0 0 0 0 0 0 0 0 0
+merge "inverter_16/Out" "m1_230_n48#"
+merge "inverter_29/in" "inverter_28/Out" -16.032 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -16 0 0 0 0 0 0 0 0 0 0
+merge "inverter_28/Out" "m1_322_n148#"
+merge "inverter_24/in" "inverter_23/Out" -16.032 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -16 0 0 0 0 0 0 0 0 0 0
+merge "inverter_23/Out" "m1_91_n148#"
+merge "inverter_0/in" "inverter_30/Out" -16.032 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -16 0 0 0 0 0 0 0 0 0 0
+merge "inverter_30/Out" "m1_n119_n277#"
+merge "inverter_4/in" "inverter_3/Out" -16.032 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -16 0 0 0 0 0 0 0 0 0 0
+merge "inverter_3/Out" "m1_107_46#"
+merge "inverter_14/in" "inverter_13/Out" -5.9232 0 0 0 0 0 0 0 0 0 0 0 0 0 0 32 -16 0 0 0 0 0 0 0 0 0 0
+merge "inverter_13/Out" "m1_89_n48#"
+merge "inverter_23/in" "inverter_22/Out" -16.032 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -16 0 0 0 0 0 0 0 0 0 0
+merge "inverter_22/Out" "m1_45_n148#"
+merge "inverter_9/in" "inverter_8/Out" -16.032 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -16 0 0 0 0 0 0 0 0 0 0
+merge "inverter_8/Out" "m1_341_46#"
+merge "inverter_28/in" "inverter_27/Out" -7.1868 0 0 0 0 0 0 0 0 0 0 0 0 0 0 28 -16 0 0 0 0 0 0 0 0 0 0
+merge "inverter_27/Out" "m1_275_n148#"
+merge "inverter_25/in" "inverter_24/Out" -16.032 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -16 0 0 0 0 0 0 0 0 0 0
+merge "inverter_24/Out" "m1_136_n148#"
+merge "inverter_27/in" "inverter_26/Out" -16.032 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -16 0 0 0 0 0 0 0 0 0 0
+merge "inverter_26/Out" "m1_228_n148#"
+merge "inverter_21/in" "inverter_20/Out" -16.032 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -16 0 0 0 0 0 0 0 0 0 0
+merge "inverter_20/Out" "m1_n49_n148#"
+merge "inverter_11/in" "inverter_10/Out" -16.032 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -16 0 0 0 0 0 0 0 0 0 0
+merge "inverter_10/Out" "m1_n51_n48#"
+merge "inverter_13/in" "inverter_12/Out" -16.032 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -16 0 0 0 0 0 0 0 0 0 0
+merge "inverter_12/Out" "m1_43_n48#"
+merge "inverter_19/in" "inverter_18/Out" -16.032 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -16 0 0 0 0 0 0 0 0 0 0
+merge "inverter_18/Out" "m1_324_n48#"
+merge "inverter_15/in" "inverter_14/Out" -16.032 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -16 0 0 0 0 0 0 0 0 0 0
+merge "inverter_14/Out" "m1_135_n48#"
+merge "inverter_19/Out" "inverter_20/in" -988.1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -565 -808 0 0 0 0 0 0 0 0 0 0
+merge "inverter_20/in" "m1_n95_n148#"
+merge "inverter_16/in" "inverter_15/Out" -14.7684 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 -16 0 0 0 0 0 0 0 0 0 0
+merge "inverter_15/Out" "m1_182_n48#"
+merge "inverter_5/in" "inverter_4/Out" -16.032 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -16 0 0 0 0 0 0 0 0 0 0
+merge "inverter_4/Out" "m1_154_46#"
+merge "inverter_12/in" "inverter_11/Out" -16.032 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -16 0 0 0 0 0 0 0 0 0 0
+merge "inverter_11/Out" "m1_n3_n48#"
+merge "inverter_26/in" "inverter_25/Out" -5.9232 0 0 0 0 0 0 0 0 0 0 0 0 0 0 32 -16 0 0 0 0 0 0 0 0 0 0
+merge "inverter_25/Out" "m1_182_n148#"
